@@ -1,0 +1,1 @@
+# 20.-Memvalidasi-agar-pembagian-tidak-dengan-nol
